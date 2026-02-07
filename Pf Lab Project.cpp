@@ -183,6 +183,7 @@ int main() {
     while (true) {
     	system("cls");
         cout << "\n--- HOSPITAL TRIAGE SYSTEM ---\n";
+        cout << "******************************\n";
         cout << "1. Add Patient\n";
         cout << "2. Treat Next\n";
         cout << "3. View Queue\n";
